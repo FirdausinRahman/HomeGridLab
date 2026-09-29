@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+xgboost
+rasterio
+pyproj
+pandas
+numpy

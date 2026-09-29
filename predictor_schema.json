@@ -1,0 +1,29 @@
+{
+    "columns": [
+        "sum_XC_X3",
+        "sum_XE_X5",
+        "sum_XI_X9",
+        "sum_XJ_X10",
+        "sum_XK_X11",
+        "sum_XM_X13",
+        "bentuk_tapak_Ngantong",
+        "bentuk_tapak_Persegi",
+        "bentuk_tapak_Persegi Panjang",
+        "bentuk_tapak_Tidak Beraturan",
+        "bentuk_tapak_Trapesium",
+        "orientasi_Barat Daya",
+        "orientasi_Barat Laut",
+        "orientasi_Selatan",
+        "orientasi_Tenggara",
+        "orientasi_Timur",
+        "orientasi_Timur Laut",
+        "orientasi_Utara",
+        "kondisi_wilayah_sekitar_Hijau",
+        "kondisi_wilayah_sekitar_Industri",
+        "kondisi_wilayah_sekitar_Industri / Perdagangan Besar",
+        "kondisi_wilayah_sekitar_Industri / Perdagangan UKM",
+        "kondisi_wilayah_sekitar_Komersial",
+        "kondisi_wilayah_sekitar_Komersial Menengah",
+        "kondisi_wilayah_sekitar_Perumahan"
+    ]
+}
