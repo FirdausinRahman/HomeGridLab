@@ -6,3 +6,4 @@ rasterio
 pyproj
 pandas
 numpy
+scikit-learn
